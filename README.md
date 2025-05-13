@@ -1,1 +1,4 @@
-# NLP
+- Phát triển toàn bộ pipeline thu thập nội dung y tế từ các nguồn uy tín như Long Châu và Vinmec bằng cách sử dụng BeautifulSoup và Selenium.
+- Thực hiện tiền xử lý dữ liệu kỹ lưỡng, bao gồm làm sạch và định dạng dữ liệu phục vụ cho các bài toán truy xuất thông tin.
+- Áp dụng các kỹ thuật truy xuất văn bản như BM25 và vector embedding (ví dụ: Word2Vec, BERT) để tìm kiếm tài liệu, kết hợp với thuật toán reranking nhằm tăng độ liên quan của kết quả.
+- Cuối cùng, tích hợp các mô hình ngôn ngữ lớn (LLMs) nội bộ và API bên ngoài để tạo ra các phản hồi y tế có ngữ cảnh, giúp cải thiện khả năng sử dụng và độ rõ ràng của thông tin cho người dùng cuối.
